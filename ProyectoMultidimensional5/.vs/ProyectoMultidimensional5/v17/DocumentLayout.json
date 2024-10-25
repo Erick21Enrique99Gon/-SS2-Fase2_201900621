@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\Erick\\2024 segundo semestre\\Lab semi2\\-SS2-Fase2_201900621\\ProyectoMultidimensional5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D314B609-9A06-4DF2-8320-D27E3708D8B2}|ProyectoMultidimensional5\\ProyectoMultidimensional5.dwproj|C:\\Users\\Public\\Documents\\Erick\\2024 segundo semestre\\Lab semi2\\-SS2-Fase2_201900621\\ProyectoMultidimensional5\\ProyectoMultidimensional5\\Seminario2 201900621.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D314B609-9A06-4DF2-8320-D27E3708D8B2}|ProyectoMultidimensional5\\ProyectoMultidimensional5.dwproj|solutionrelative:ProyectoMultidimensional5\\Seminario2 201900621.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 69,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Seminario2 201900621.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Erick\\2024 segundo semestre\\Lab semi2\\-SS2-Fase2_201900621\\ProyectoMultidimensional5\\ProyectoMultidimensional5\\Seminario2 201900621.cube",
+              "RelativeDocumentMoniker": "ProyectoMultidimensional5\\Seminario2 201900621.cube",
+              "ToolTip": "C:\\Users\\Public\\Documents\\Erick\\2024 segundo semestre\\Lab semi2\\-SS2-Fase2_201900621\\ProyectoMultidimensional5\\ProyectoMultidimensional5\\Seminario2 201900621.cube [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoMultidimensional5\\Seminario2 201900621.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T01:53:16.296Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 27,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
